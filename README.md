@@ -1,10 +1,13 @@
 # Winona Ivana Website
 
-  This is the simple personal website of Winona Ivana made using HTML, CSS and JavaScript
+This is the simple personal website of Winona Ivana made using HTML, CSS and JavaScript
 
-  ## Page
+![alt text](/ss.png)
 
-  - Home
-  - About me
-  - Contact
-  
+## Page
+
+- Home
+- About me
+- Contact
+
+Website link: <https://winonaivana.netlify.app/>
