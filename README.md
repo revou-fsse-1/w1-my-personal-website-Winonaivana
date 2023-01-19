@@ -2,7 +2,7 @@
 
 This is the simple personal website of Winona Ivana made using HTML, CSS and JavaScript
 
-![alt text](/ss.png)
+![alt text](/sss.png)
 
 ## Page
 
